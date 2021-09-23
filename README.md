@@ -2,4 +2,4 @@
 
 Tool to check the rarity of moonsama
 
-https://github.com/niklabh/moonsama-nft
+https://moonsama-7e4ab.web.app/
