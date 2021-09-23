@@ -1,4 +1,4 @@
-module.exports = `https://moonsama.mypinata.cloud/ipfs/QmYQTKJykBM5pifBoQw7vh25tTbuidiYQdn1NxkNqkAtRM/1.json
+export const urls = `https://moonsama.mypinata.cloud/ipfs/QmYQTKJykBM5pifBoQw7vh25tTbuidiYQdn1NxkNqkAtRM/1.json
 https://moonsama.mypinata.cloud/ipfs/QmbjSuDCrrZTrhsbGNotp44oPm7Aazd19FHHtM9VF44jvt/2.json
 https://moonsama.mypinata.cloud/ipfs/QmVMzEmgtVpK6fpuHcFjVDhQpaR8Y29jE7A28Aqby3tP47/3.json
 https://moonsama.mypinata.cloud/ipfs/QmZqKcZRvjecwa6Zx5q4CcXaSm6aqYPQHUWxRViKNs3G9X/4.json
